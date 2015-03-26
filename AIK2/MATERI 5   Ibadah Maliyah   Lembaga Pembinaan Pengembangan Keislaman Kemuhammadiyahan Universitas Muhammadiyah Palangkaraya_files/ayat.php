@@ -1,0 +1,1 @@
+document.write("Sama saja (bagi Tuhan), siapa di antaramu yang merahasiakan ucapannya, dan siapa yang berterus-terang dengan ucapan itu, dan siapa yang bersembunyi di malam hari dan yang berjalan (menampakkan diri) di siang hari.<br /><strong>(QS. AR RA'D:10)</strong> <br/><br/><a href='http://widgets.mahesajenar.com/'>widget lain</a>");
